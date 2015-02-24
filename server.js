@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
 });
 
 
-app.listen(8080, function () {
-    console.log('Express server listening on port %d in %s mode', 8080, app.settings.env);
+app.listen(3000, function () {
+    console.log('Express server listening on port %d in %s mode', 3000, app.settings.env);
 });
 
