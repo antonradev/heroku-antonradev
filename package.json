@@ -28,5 +28,5 @@
   "devDependencies": {},
   "bundleDependencies": [],
   "private": false,
-  "main": "server.js"
+  "main": "index.html"
 }
